@@ -1,0 +1,12 @@
+.btn-primary:hover
+{
+    background-color:red;
+}
+h3{
+    font-size:30px;
+    font-style: bold;
+}
+
+video{
+    margin-bottom :50rem;
+}
